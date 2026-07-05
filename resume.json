@@ -4,49 +4,27 @@
         "workExpList": "工作经历",
         "projectList": "项目经验",
         "skillList": "个人技能",
-        "awardList": "更多信息",
-        "workList": "个人作品",
-        "aboutme": "个人评价"
+        "workList": "个人作品"
     },
     "avatar": {
         "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
-        "hidden": false
+        "hidden": true
     },
     "profile": {
-        "name": "廖晓娟 (新茗)",
-        "email": "736xxxx86@qq.com",
-        "mobile": "156xxxx7119",
-        "github": "https://github.com/visiky (1.1k 粉丝)",
-        "zhihu": "https://www.zhihu.com/people/visiky",
-        "workExpYear": ""
+        "name": "李尧", 
+        "email": "993934643@qq.com",
+        "mobile": "15996164890",
+        "workExpYear": "8年"
     },
     "educationList": [
         {
             "edu_time": [
-                "2014.09.01",
-                "2018.06.30"
+                "2014.09",
+                "2018.06"
             ],
-            "school": "华南理工大学",
-            "major": "网络工程",
+            "school": "淮安大学",
+            "major": "电子科学与技术",
             "academic_degree": "本科"
-        }
-    ],
-    "awardList": [
-        {
-            "award_info": "英语 CET6",
-            "award_time": "2015"
-        },
-        {
-            "award_info": "蚂蚁近卫军 卓越个人奖",
-            "award_time": "2018.09"
-        },
-        {
-            "award_info": "前端练习生 可视化讲师",
-            "award_time": "2020.10"
-        },
-        {
-            "award_info": "前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot”",
-            "award_time": "2021.07"
         }
     ],
     "workExpList": [
