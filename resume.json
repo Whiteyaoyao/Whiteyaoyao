@@ -1,7 +1,6 @@
 {
     "titleNameMap": {
         "educationList": "教育背景",
-        "aboutme": "自我介绍",
         "workExpList": "工作经历",
         "projectList": "项目经验",
         "skillList": "个人技能"
@@ -24,9 +23,6 @@
             "academic_degree": "本科"
         }
     ],
-    "aboutme": {
-        "aboutme_desc": ""
-    },
     "workExpList": [
         {
             "company_name": "蚂蚁集团",
