@@ -3,18 +3,18 @@
         "educationList": "教育背景",
         "workExpList": "工作经历",
         "projectList": "项目经验",
-        "skillList": "个人技能",
-        "workList": "个人作品"
+        "skillList": "个人技能"
     },
     "avatar": {
         "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
         "hidden": true
     },
     "profile": {
-        "name": "李尧", 
+        "name": "李尧",
         "email": "993934643@qq.com",
         "mobile": "15996164890",
-        "workExpYear": "8年"
+        "workExpYear": "8年",
+        "positionTitle": "后端工程师"
     },
     "educationList": [
         {
@@ -22,7 +22,7 @@
                 "2014.09",
                 "2018.06"
             ],
-            "school": "淮安大学",
+            "school": "淮阴工学院",
             "major": "电子科学与技术",
             "academic_degree": "本科"
         }
