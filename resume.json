@@ -1,13 +1,10 @@
 {
     "titleNameMap": {
         "educationList": "教育背景",
+        "aboutme": "自我介绍",
         "workExpList": "工作经历",
         "projectList": "项目经验",
         "skillList": "个人技能"
-    },
-    "avatar": {
-        "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
-        "hidden": true
     },
     "profile": {
         "name": "李尧",
@@ -27,6 +24,9 @@
             "academic_degree": "本科"
         }
     ],
+    "aboutme": {
+        "aboutme_desc": "🌱 多年大型项目经历，专注在可视分析领域\n1. 项目管理: 具有独立跟进和推动项目进度经验，把控研发测试交付进展。2.可视化经验: 通用组件设计和开发经验丰富，也能完成定制可视化诉求\n其它: 1. 前端早早聊 分享 “如何构思和开发开箱即用的可视化图表库 G2Plot” 2. 蚂蚁集团前端练习生 可视化讲师 3. D2论坛小游戏: https://antv.gitee.io/zh/d2, https://antv-studio.antfin.com/bless-heatmap"
+    },
     "workExpList": [
         {
             "company_name": "蚂蚁集团",
@@ -56,7 +56,28 @@
             "work_desc": "前端实习生。使用 Vue 来实现平台功能和逻辑，再用 ECharts 来对数据挖掘分析后的可视化结果进行展示"
         }
     ],
-    "skillList": [],
+    "skillList": [
+        {
+            "skill_name": "HTML 和 CSS",
+            "skill_desc": "熟练掌握 html, css 等前端基础技术，不借助框架编写响应式/移动端网页",
+            "skill_level": 89
+        },
+        {
+            "skill_name": "TypeScript / JavaScript",
+            "skill_desc": "熟悉 TypeScript，丰富的 ts 项目经验",
+            "skill_level": 90
+        },
+        {
+            "skill_name": "数据可视化",
+            "skill_desc": "丰富的可视化工程实践以及开源经验",
+            "skill_level": 90
+        },
+        {
+            "skill_name": "React / 前端工程化",
+            "skill_desc": "大型前端项目经验以及组件库开发经验",
+            "skill_level": 80
+        }
+    ],
     "projectList": [
         {
             "project_name": "数据作战室",
